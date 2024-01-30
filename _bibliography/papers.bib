@@ -3,14 +3,25 @@
 
 @string{aps = {American Physical Society,}}
 
-@book{einstein1956investigations,
-  bibtex_show={true},
-  title={Investigations on the Theory of the Brownian Movement},
-  author={Einstein, Albert},
-  year={1956},
-  publisher={Courier Corporation},
-  preview={brownian-motion.gif}
+@inproceedings{10.1145/3528233.3530705,
+  author = {Jin, Yongxu and Han, Yushan and Geng, Zhenglin and Teran, Joseph and Fedkiw, Ronald},
+  title = {Analytically Integratable Zero-restlength Springs for Capturing Dynamic Modes unrepresented by Quasistatic Neural Networks},
+  year = {2022},
+  isbn = {9781450393379},
+  publisher = {Association for Computing Machinery},
+  address = {New York, NY, USA},
+  url = {https://doi.org/10.1145/3528233.3530705},
+  doi = {10.1145/3528233.3530705},
+  abstract = {We present a novel paradigm for modeling certain types of dynamic simulation in real-time with the aid of neural networks. In order to significantly reduce the requirements on data (especially time-dependent data), as well as decrease generalization error, our approach utilizes a data-driven neural network only to capture quasistatic information (instead of dynamic or time-dependent information). Subsequently, we augment our quasistatic neural network (QNN) inference with a (real-time) dynamic simulation layer. Our key insight is that the dynamic modes lost when using a QNN approximation can be captured with a quite simple (and decoupled) zero-restlength spring model, which can be integrated analytically (as opposed to numerically) and thus has no time-step stability restrictions. Additionally, we demonstrate that the spring constitutive parameters can be robustly learned from a surprisingly small amount of dynamic simulation data. Although we illustrate the efficacy of our approach by considering soft-tissue dynamics on animated human bodies, the paradigm is extensible to many different simulation frameworks.},
+  booktitle = {ACM SIGGRAPH 2022 Conference Proceedings},
+  articleno = {37},
+  numpages = {9},
+  keywords = {soft-tissue dynamics, human body animation, Zero-restlength spring},
+  location = {Vancouver, BC, Canada},
+  series = {SIGGRAPH '22}
+  html = {https://dl.acm.org/doi/pdf/10.1145/3528233.3530705}
 }
+
 
 @article{einstein1950meaning,
   abbr={AJP},
