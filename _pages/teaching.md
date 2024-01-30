@@ -4,7 +4,7 @@ permalink: /teaching/
 title: teaching
 description: I'm a teaching assistant in the math department at UCLA.
 nav: true
-nav_order: 6
+nav_order: 3
 ---
 
 Courses I've taught over the last few years:
