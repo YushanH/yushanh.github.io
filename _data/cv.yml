@@ -27,9 +27,12 @@
       institution: Epic Games
       year: 06/2021 - Current
       description:
-        - Developed a comprehensive simulation pipeline for human soft tissues, enhancing the realism of biomechanical models.
-        - Innovated a muscle contraction methodology incorporating biomechanically accurate inverse dynamics, improving the fidelity of musculoskeletal simulations.
-        - Engineered and trained machine learning neural networks to implement real-time corrective adjustments to character rigs, streamlining the animation process.
+        - Devised a novel neural network pipeline for real-time (1000X faster than simulation) character rig corrections for improving metaverse realism on human muscle contractions/interactions, volume preservation, and collisions.
+        - Implemented multi-layer FEM human soft tissue simulation and biomechanics-based muscle activation solvers. 
+        - Proposed a novel muscle contraction constitutive model and decoupled passive/active networks for skin deformations.
+        - Developed an analytic real-time (90 fps) spring model for adding secondary physics dynamics, e.g., inertia.
+        - Implemented game engine physics solvers (to be released under Chaos Flesh framework, Unreal Engine 5.5).
+
     - title: Teaching Assistant
       institution: University of California, Los Angeles
       year: 2020 - 2024
@@ -40,7 +43,9 @@
       institution: Lawrence Berkeley National Lab
       year: 06/2020 – 09/2020
       description:
-        - Investigated deep learning models and probabilistic graphical models for image segmentation.
+        - Incorporated conditional random field models in CNNs for rock tomography image segmentation.
+        - Improved unsupervised segmentation results qualitatively and reduced hollow regions obtained by traditional CNNs by 90%.
+
 
 - title: Honors and Awards
   type: time_table
@@ -50,7 +55,7 @@
         - NSF MENTOR Fellowship - $34,000
     - year: 2019
       items:
-        - Howard Tucker Award (University of California, Irvine)
+        - Howard Tucker Award (UC Irvine)
 
 - title: Academic Interests
   type: nested_list
@@ -58,9 +63,9 @@
     - title: Computer Graphics
       items:
         - physics-based simulation
+        - machine learning
         - inverse dynamics
         - numerical methods for PDE
-        - machine learning
 
 - title: Other Interests
   type: list
