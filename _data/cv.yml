@@ -4,17 +4,17 @@
     - name: Full Name
       value: Yushan Han
     - name: Languages
-      value: English, Mandarin Chinese
+      value: English, 中文
 
 - title: Education
   type: time_table
   contents:
-    - title: Ph.D
+    - title: Ph.D.
       institution: University of California, Los Angeles
       year: 2024(expected)
       description:
         - Applied Mathematics
-    - title: Bachelor of Science
+    - title: B.S.
       institution: University of California, Irvine
       year: 2019
       description:
@@ -45,6 +45,11 @@
       description:
         - Incorporated conditional random field models in CNNs for rock tomography image segmentation.
         - Improved unsupervised segmentation results qualitatively and reduced hollow regions obtained by traditional CNNs by 90%.
+
+- title: Programming Language
+  type: list
+  contents:
+    - Proficient in Python and C++
 
 
 - title: Honors and Awards
