@@ -49,7 +49,7 @@
 - title: Programming Language
   type: list
   contents:
-    - Proficient in Python and C++
+    - Python, C++
 
 
 - title: Honors and Awards
@@ -65,12 +65,10 @@
 - title: Academic Interests
   type: nested_list
   contents:
-    - title: Computer Graphics
-      items:
-        - physics-based simulation
-        - machine learning
-        - inverse dynamics
-        - numerical methods for PDE
+    items:
+      - physics-based simulation
+      - machine learning
+      - numerical methods for PDE
 
 - title: Other Interests
   type: list

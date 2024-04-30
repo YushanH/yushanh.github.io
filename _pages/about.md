@@ -17,8 +17,14 @@ social: false # includes social icons at the bottom of the page
 ---
 #### about
 
-I'm a fifth-year PhD candidate in Applied Math at UCLA. My advisor is Prof.**[Joseph Teran](https://www.math.ucla.edu/~jteran/)**. My primary research focus lies at the intersection of physics-based simulation and machine learning, with a special emphasis on the simulation of human soft tissues. My recent works include numerically solving nonlinear PDEs from elasticity, neural networks for real-time correctives on animated characters and muscle inverse dynamics as neural network inputs.
+I'm a fifth-year PhD candidate in Applied Math at UCLA graduating in June 2024. My advisor is Prof. **[Joseph Teran](https://www.math.ucla.edu/~jteran/)**. My primary research focus lies at the intersection of physics-based simulation and machine learning, with a special emphasis on the simulation of human soft tissues. My recent works include:
+items:
+	- a comprehensive neural network model for efficient musculoskeletal-driven skin deformation of animated characters
+	- a dynamic mode capture paradigm for augmenting secondary effects (e.g. inertia) on top of our network
+	- a robust meshing algorithm for generating volumetric hexahedron meshes from self-intersecting surfaces
+	- position-based nonlinear Gauss-Seidel approach for quasistatic simulation for training data generation.
 
 Additionally, I'm a research intern at Epic Games where I am actively involved in the development of Chaos Flesh within the Unreal Engine framework.
 
+[Updated 4/30/2024] Two of my papers are just accepted to SIGGRAPH 2024. I'll give an in-person presentation on my works in Denver, CO around July 29th.
 ---
