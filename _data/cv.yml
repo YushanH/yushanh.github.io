@@ -63,12 +63,11 @@
         - Howard Tucker Award (UC Irvine)
 
 - title: Academic Interests
-  type: nested_list
+  type: list
   contents:
-    items:
-      - physics-based simulation
-      - machine learning
-      - numerical methods for PDE
+    - physics-based simulation
+    - machine learning
+    - numerical methods for PDE
 
 - title: Other Interests
   type: list
