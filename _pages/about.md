@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: Ph.D Candidate in Applied Math @UCLA
+subtitle: Ph.D in Applied Math, UCLA
 
 profile:
   align: right
