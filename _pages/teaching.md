@@ -2,14 +2,14 @@
 layout: page
 permalink: /teaching/
 title: teaching
-description: I'm a teaching assistant in the math department at UCLA.
+description: I have taught several math courses at UCLA. As far as math, I care about why we are learning it (motivation) and why we can get it (logic).
 nav: true
 nav_order: 3
 ---
 
-Courses I've taught over the last few years:
+I received outstanding teaching evaluations from students.
 
-Math 151A: Applied Numerical Methods (Winter 2021) teaching evaluation [here](../assets/pdf/Math151aEval.pdf)
+Math 151A: Applied Numerical Methods (Winter 2021, Spring 2024) teaching evaluation [here](../assets/pdf/Math151aEval.pdf)
 
 Math 155: Mathmatical Imaging (Spring 2021, Fall 2023, Winter 2024) teaching evaluation [here](../assets/pdf/Math155Eval.pdf)
 

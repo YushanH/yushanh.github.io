@@ -26,6 +26,7 @@ I obtained my PhD in Applied Mathematics at UCLA, under the supervision of **[Pr
 
 Additionally, I'm a research intern at Epic Games where I am actively involved in the development of Chaos Flesh within the Unreal Engine framework.
 
+
 \[Updated 4/30/2024\] Two of my papers are just accepted to SIGGRAPH 2024. I'll give an in-person presentation on my work in Denver, CO around July 29th.
 
 \[Updated 5/31/2024\] I successfully defended my thesis.
