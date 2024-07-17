@@ -23,9 +23,15 @@
 - title: Experience
   type: time_table
   contents:
+    - title: Physics Engineer
+      institution: Epic Games
+      year: 07/2024 - Current
+      description:
+        - Working on the Chaos Flesh project in Unreal Engine for physics-based soft body/human soft tissue simulations.
+
     - title: Research Intern
       institution: Epic Games
-      year: 06/2021 - Current
+      year: 06/2021 - 06/2024
       description:
         - Devised a novel neural network pipeline for real-time (1000X faster than simulation) character rig corrections for improving metaverse realism on human muscle contractions/interactions, volume preservation, and collisions.
         - Implemented multi-layer FEM human soft tissue simulation and biomechanics-based muscle activation solvers. 
