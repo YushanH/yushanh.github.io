@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: Physics Engineer at Epic Games, Ph.D. in Applied Math, UCLA
+subtitle: Physics Engineer at Epic Games
 
 profile:
   align: right
