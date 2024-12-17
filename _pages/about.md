@@ -17,7 +17,7 @@ social: false # includes social icons at the bottom of the page
 ---
 #### about
 
-I'm currently a Physics Engineer at Epic Games developing the **[Chaos Flesh](hhttps://dev.epicgames.com/community/learning/tutorials/W4mV/unreal-engine-chaos-flesh-emil-muscle-tutorial-5-5)** system in Unreal Engine that supports high fidelity human soft tissue simulations. I obtained my PhD in Applied Mathematics at UCLA, under the supervision of **[Prof. Joseph Teran](https://www.math.ucla.edu/~jteran/)**. My primary research focus lies at the intersection of physics-based simulation and machine learning, with a special emphasis on the simulation of human soft tissues. My recent work includes:
+I'm currently a Physics Engineer at Epic Games developing the **[Chaos Flesh](https://dev.epicgames.com/community/learning/tutorials/W4mV/unreal-engine-chaos-flesh-emil-muscle-tutorial-5-5)** system in Unreal Engine that supports high fidelity human soft tissue simulations. I obtained my PhD in Applied Mathematics at UCLA, under the supervision of **[Prof. Joseph Teran](https://www.math.ucla.edu/~jteran/)**. My primary research focus lies at the intersection of physics-based simulation and machine learning, with a special emphasis on the simulation of human soft tissues. My recent work includes:
 - a comprehensive neural network model for efficient musculoskeletal-driven skin deformation of animated characters
 - a dynamic mode capture paradigm for augmenting secondary effects (e.g. inertia) on top of our network
 - a robust meshing algorithm for generating volumetric hexahedron meshes from self-intersecting surfaces
@@ -28,6 +28,6 @@ I'm currently a Physics Engineer at Epic Games developing the **[Chaos Flesh](hh
 
 \[Updated 5/31/2024\] I successfully defended my thesis.
 
-\[Updated 11/12/2024\] Our Chaos Flesh system has a major update in the UE 5.5 release. See my **[tutorial](hhttps://dev.epicgames.com/community/learning/tutorials/W4mV/unreal-engine-chaos-flesh-emil-muscle-tutorial-5-5)** to get started.
+\[Updated 11/12/2024\] Our Chaos Flesh system has a major update in the UE 5.5 release. See my **[tutorial](https://dev.epicgames.com/community/learning/tutorials/W4mV/unreal-engine-chaos-flesh-emil-muscle-tutorial-5-5)** to get started.
 
 ---
