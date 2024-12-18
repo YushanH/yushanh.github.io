@@ -9,7 +9,7 @@ profile:
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
 
-news: false # includes a list of news items
+news: true # includes a list of news items
 latest_posts: false # includes a list of the newest posts
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: false # includes social icons at the bottom of the page
@@ -23,11 +23,5 @@ I'm currently a Physics Engineer at Epic Games developing the **[Chaos Flesh](ht
 - a robust meshing algorithm for generating volumetric hexahedron meshes from self-intersecting surfaces
 - position-based nonlinear Gauss-Seidel approach for quasistatic simulation as training data
 - fast ML levelset for cloth simulations. 
-
-\[Updated 4/30/2024\] Two of my papers are just accepted to SIGGRAPH 2024. I'll give an in-person presentation on my work in Denver, CO on July 31st.
-
-\[Updated 5/31/2024\] I successfully defended my thesis.
-
-\[Updated 11/12/2024\] Our Chaos Flesh system has a major update in the UE 5.5 release. See my **[tutorial](https://dev.epicgames.com/community/learning/tutorials/W4mV/unreal-engine-chaos-flesh-emil-muscle-tutorial-5-5)** to get started.
 
 ---
